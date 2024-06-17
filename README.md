@@ -1,6 +1,8 @@
 ![Github Banner](github-banner.jpg "Gerson's Banner")
 
-## [![Gerson's GitHub stats](https://github-readme-stats.vercel.app/api?username=gersonvidal&show_icons=true&theme=shadow_red)](https://github.com/anuraghazra/github-readme-stats)
+[![Gerson's GitHub stats](https://github-readme-stats.vercel.app/api?username=gersonvidal&show_icons=true&theme=shadow_red)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 
 ## Hi  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="26"/>
 
@@ -12,12 +14,16 @@
 
 | Currently a Bachelor's student in **Software Engineering**. |<br>
 
+---
+
 ### Skills
 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 </p>
+
+---
 
 ### Learning 
 
@@ -30,3 +36,5 @@
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><br>
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
 </p>
+
+---
