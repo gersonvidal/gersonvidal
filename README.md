@@ -2,7 +2,7 @@
 
 ## [![Gerson's GitHub stats](https://github-readme-stats.vercel.app/api?username=gersonvidal&show_icons=true&theme=shadow_red)](https://github.com/anuraghazra/github-readme-stats)
 
-## Hi  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="26"/>
+## Hi  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="36"/>
 
 | I'm an enthusiast for **Software Development** and everything this area has to offer. My principal focus is **Backend Development** but I'm also immersing myself into Frontend Development. |<br>
 
