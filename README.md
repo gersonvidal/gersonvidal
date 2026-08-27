@@ -1,4 +1,4 @@
-![Github Banner](github-header-banner.png "Gerson's Banner")
+![Github Banner](github-header-banner-v2.png "Gerson's Banner")
 
 ### Hi!  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="20"/>
 
